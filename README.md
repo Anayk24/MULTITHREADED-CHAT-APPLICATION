@@ -53,7 +53,7 @@ Client.java   → Connects to server and sends/receives messages
 2.Client1_ChatOutput:
 <img width="1917" height="1020" alt="Image" src="https://github.com/user-attachments/assets/aa37ac40-57bb-4ffb-8175-453d2d573167" />
 
-3.Client1_ChatOutput:
+3.Client2_ChatOutput:
 <img width="1919" height="1014" alt="Image" src="https://github.com/user-attachments/assets/8a4a2bec-d42d-43c2-b832-76a97605c8ce" />
 
 Learning Outcome
