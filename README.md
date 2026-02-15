@@ -47,11 +47,14 @@ Client.java   → Connects to server and sends/receives messages
 
 # Sample Output
 
-1.ServerStartedOutput:<img width="1900" height="992" alt="Image" src="https://github.com/user-attachments/assets/a224e26f-9227-4f77-b348-64e06d17bde0" /> 
+1.ServerStartedOutput:
+<img width="1900" height="992" alt="Image" src="https://github.com/user-attachments/assets/a224e26f-9227-4f77-b348-64e06d17bde0" /> 
 
-2.Client1_ChatOutput:<img width="1917" height="1020" alt="Image" src="https://github.com/user-attachments/assets/aa37ac40-57bb-4ffb-8175-453d2d573167" />
+2.Client1_ChatOutput:
+<img width="1917" height="1020" alt="Image" src="https://github.com/user-attachments/assets/aa37ac40-57bb-4ffb-8175-453d2d573167" />
 
-3.Client1_ChatOutput:<img width="1919" height="1014" alt="Image" src="https://github.com/user-attachments/assets/8a4a2bec-d42d-43c2-b832-76a97605c8ce" />
+3.Client1_ChatOutput:
+<img width="1919" height="1014" alt="Image" src="https://github.com/user-attachments/assets/8a4a2bec-d42d-43c2-b832-76a97605c8ce" />
 
 Learning Outcome
 
